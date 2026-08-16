@@ -15,7 +15,7 @@ I'm currently learning **HTML, CSS, JavaScript, and React**. I'm working on smal
 * VS Code
 
 
-You can reach me through **GitHub** or connect with me on **[your preferred social/contact link]**.
+You can reach me through GitHub or connect with me at mab123ty@gmail.com
 
 Thanks for visiting my profile! 🚀
 
